@@ -16,7 +16,7 @@ import { TeacherDashboard } from './pages/teacher/TeacherDashboard';
 import { TeacherAssignments } from './pages/teacher/TeacherAssignments';
 import { TeacherAttendances } from './pages/teacher/TeacherAttendances';
 import { TeacherTimeTable } from './pages/teacher/TeacherTimeTable';
-import { Login } from './pages/auth/login';
+import { Login } from './pages/auth/Login';
 
 function App() {
   return (
