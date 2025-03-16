@@ -1,0 +1,241 @@
+[
+    {
+      "faculty": "Faculty of Computing & Information Technology",
+      "departments": [
+        {
+          "name": "Computer Science",
+          "batches": [
+            {
+              "name": "Batch 2021",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Ali", "Ahmed", "Sara"]
+                },
+                {
+                  "name": "Section B",
+                  "students": ["Usman", "Zainab"]
+                }
+              ]
+            },
+            {
+              "name": "Batch 2022",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Fatima", "Bilal"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Information Technology",
+          "batches": [
+            {
+              "name": "Batch 2021",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Ali", "Ahmed", "Sara"]
+                },
+                {
+                  "name": "Section B",
+                  "students": ["Usman", "Zainab"]
+                }
+              ]
+            },
+            {
+              "name": "Batch 2022",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Fatima", "Bilal"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Software Engineering",
+          "batches": [
+            {
+              "name": "Batch 2021",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Hamza", "Ayesha"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Engineering & Technology",
+      "departments": [
+        {
+          "name": "Electrical Engineering",
+          "batches": [
+            {
+              "name": "Batch 2020",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Tariq", "Fahad"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mechanical Engineering",
+          "batches": [
+            {
+              "name": "Batch 2019",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Raza", "Waleed"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Social Sciences",
+      "departments": [
+        {
+          "name": "Psychology",
+          "batches": [
+            {
+              "name": "Batch 2020",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Mehwish", "Rabia"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sociology",
+          "batches": [
+            {
+              "name": "Batch 2021",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Ali Raza", "Komal"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Arts",
+      "departments": [
+        {
+          "name": "Fine Arts",
+          "batches": [
+            {
+              "name": "Batch 2022",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Saba", "Maham"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Design",
+          "batches": [
+            {
+              "name": "Batch 2021",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Imran", "Sadia"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Science",
+      "departments": [
+        {
+          "name": "Chemistry",
+          "batches": [
+            {
+              "name": "Batch 2019",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Haroon", "Adeel"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Physics",
+          "batches": [
+            {
+              "name": "Batch 2020",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Sami", "Faiza"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faculty": "Faculty of Management & Administrative Sciences",
+      "departments": [
+        {
+          "name": "Business Administration",
+          "batches": [
+            {
+              "name": "Batch 2021",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Noman", "Esha"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Commerce",
+          "batches": [
+            {
+              "name": "Batch 2020",
+              "sections": [
+                {
+                  "name": "Section A",
+                  "students": ["Talha", "Yasir"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

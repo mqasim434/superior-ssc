@@ -1,0 +1,23 @@
+.admin-layout {
+    display: flex;
+    width: 100vw;
+  }
+  
+  .admin-layout .content-area {
+    margin-left: 250px; 
+    width: calc(100% - 250px);
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+
+  .admin-layout .content-area .content-scroll {
+    overflow-y: auto;
+    flex-grow: 1;
+    background: rgba(255, 255, 255,0.8);
+  }
+  
+  .admin-layout .content-area .header {
+    flex-shrink: 0;
+  }
+  

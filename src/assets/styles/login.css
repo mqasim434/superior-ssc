@@ -1,0 +1,62 @@
+.login-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background: url('../images/uni-bg.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.login-container {
+    width: 50%;
+    height: auto;
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+    background: rgba(255, 255, 255, 0.1); 
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 12px; 
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+.login-container button {
+    width: 100%;
+}
+.login-container input {
+    background: white;
+    padding: 10px;
+    color: #000;
+}
+
+.login-container form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.login-container img{
+    width: 30%;
+    margin: 0px auto;
+}
+
+.login-banner{
+    width: 50%;
+    height: 100%;
+    
+}
+
+.error-message {
+    color: red;
+    font-size: 0.9rem;
+    margin: 5px 0 10px;
+  }
+  
